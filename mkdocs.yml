@@ -6,7 +6,12 @@ markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
   - pymdownx.tabbed
-  - pymdownx.superfences
+  - pymdownx.superfences 
+
+plugins:
+  - search
+  - git-revision-date-localized
+
 
 google_analytics:
   - UA-25246208-6 
