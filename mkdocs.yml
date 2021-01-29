@@ -15,3 +15,12 @@ plugins:
 google_analytics:
   - UA-25246208-6 
   - auto
+
+nav:
+  - Main: index.md
+  - Concepts: concepts.md
+  - Getting Started: getting-started.md
+  - XXXX to XXX: xxx.md
+  - Release notes: release-notes.md
+  - API Documentation: api-doc.md
+  - Support: support.md
