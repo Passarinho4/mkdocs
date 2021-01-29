@@ -11,7 +11,9 @@ markdown_extensions:
 plugins:
   - search
   - git-revision-date-localized
-
+  - git-committers:
+      repository: passarinho4/mkdocs
+      branch: main
 
 google_analytics:
   - UA-25246208-6 
