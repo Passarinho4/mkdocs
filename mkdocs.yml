@@ -5,3 +5,9 @@ theme:
 markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.superfences
+
+google_analytics:
+  - G-8K4V0F5DTX
+  - auto
