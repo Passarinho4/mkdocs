@@ -9,5 +9,5 @@ markdown_extensions:
   - pymdownx.superfences
 
 google_analytics:
-  - G-8K4V0F5DTX
+  - UA-25246208-6 
   - auto
