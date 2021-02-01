@@ -20,7 +20,7 @@ google_analytics:
   - auto
 
 nav:
-  - Home: home.md
+  - Test: test.md
   - Main: index.md
   - Concepts: concepts.md
   - Getting Started: getting-started.md
