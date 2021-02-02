@@ -10,6 +10,9 @@ markdown_extensions:
   - pymdownx.tabbed
   - pymdownx.superfences 
   - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 
 plugins:
   - search

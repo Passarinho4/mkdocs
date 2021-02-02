@@ -1,5 +1,9 @@
 # Welcome to MkDocs 4 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+<u>For full documentation visit [mkdocs.org](https://www.mkdocs.org). </u>
+
+
+!!! note
+    Trolololololo notatka
 
 ## Commands
 
